@@ -1,6 +1,6 @@
-NukeCoin (NKC) - a 'faster' version of Litecoin which also uses scrypt
+SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
- - 15 seconds block targets
+ - 15 seconds block targets: beat that MinCoin! ;)
  - 42 007 680 total coins
  - no subsidy within the first 3 days and after approximately 5 years;
     in between: 4 coins per generated block
@@ -13,12 +13,12 @@ means be used as a real cryptocurrency. All of the coin parameters
 are chosen arbitrarily or at most with 'fairness' towards everyone in mind.
 
 So actually, this 'new' coin exists for the following reasons:
- - NKC proves that really anyone can start a Litecoin/Bitcoin based currency
+ - SMC proves that really anyone(!) can start a Litecoin/Bitcoin based currency
     (just look at the changes I applied to the original Litecoin source,
      for genesis block generation look at main.cpp)
- - Allows me to experiment with coin parameters (in a private network)
+ - allows me to experiment with coin parameters (in a private network)
 
-Finally, I only tested the command line server/tool 'nukecoin' for the
+Finally, I only tested the command line server/tool 'smallchange' for the
 first 30 blocks. Credits go to the original authors/communities that
 created Bitcoin and Litecoin.
 
